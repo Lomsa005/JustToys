@@ -11,6 +11,9 @@
 .img-size2 {
     margin-top: 40px;
 }
+.forms {
+    margin: 3.5rem 0px 0rem 0px;
+}
 }
 
 @media (min-width: 720px) {
