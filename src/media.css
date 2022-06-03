@@ -5,6 +5,12 @@
 .list-size {
     font-size: medium;
 }
+.img-size1 {
+    margin-top: 45px;
+}
+.img-size2 {
+    margin-top: 40px;
+}
 }
 
 @media (min-width: 720px) {
